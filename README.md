@@ -28,21 +28,27 @@
 
 ###
 
+<style>
+  .icon-spacing {
+    margin-right: 10px;
+  }
+</style>
+
 <div align="left">
   <a href="https://www.instagram.com/ayman_mohamed4800/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" height="35" alt="instagram logo" style="padding-right: 10px;" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" height="35" alt="instagram logo" class="icon-spacing" />
   </a>
   <a href="https://discord.com/users/1172981892786688087" target="_blank">
-    <img src="https://assets-global.website-files.com/6257adef93867e50d84d30e2/6257d23c5fb25be7e0b6e220_Open%20Source%20Projects%20_%20Discord-7.svg" height="35" alt="discord logo" style="padding-right: 10px;" />
+    <img src="https://assets-global.website-files.com/6257adef93867e50d84d30e2/6257d23c5fb25be7e0b6e220_Open%20Source%20Projects%20_%20Discord-7.svg" height="35" alt="discord logo" class="icon-spacing" />
   </a>
   <a href="https://wa.me/+201127884800" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" height="35" alt="whatsapp logo" style="padding-right: 10px;" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" height="35" alt="whatsapp logo" class="icon-spacing" />
   </a>
   <a href="https://www.linkedin.com/in/ayman-mohamed-b3081b30b/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" height="35" alt="linkedin logo" style="padding-right: 10px;" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" height="35" alt="linkedin logo" class="icon-spacing" />
   </a>
   <a href="mailto:aymanmohamedbarakat@gmail.com" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" height="35" alt="gmail logo" style="padding-right: 10px;" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" height="35" alt="gmail logo" class="icon-spacing" />
   </a>
 </div>
 
