@@ -49,8 +49,8 @@
 ###
 
 <br clear="both">
-
-<img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1651780522995/zZbL8WM2v.gif?w=1600&h=840&fit=crop&crop=entropy&auto=format,compress&gif-q=60&format=webm" alt="Snake animation" style="width: 500px;" />
+<img width="500" />
+<img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1651780522995/zZbL8WM2v.gif?w=1600&h=840&fit=crop&crop=entropy&auto=format,compress&gif-q=60&format=webm" alt="Snake animation" />
 
 <h2 align="left">Most Used Languages:</h2>
 <div align="left">
