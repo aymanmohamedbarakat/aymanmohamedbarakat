@@ -8,7 +8,7 @@
 
 ###
 
-<img align="right" height="150" src="https://valorantinfo.com/images/us/perfectly-roasted-spray_valorant_gif_47963.gif"  />
+<img align="right" height="200" src="https://valorantinfo.com/images/us/perfectly-roasted-spray_valorant_gif_47963.gif"  />
 
 ###
 
