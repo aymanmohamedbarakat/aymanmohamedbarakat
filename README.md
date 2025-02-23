@@ -1,16 +1,17 @@
 <h2 align="left">Hi 👋! My name is Ayman and I'm a Frontend Developer, from Egypt </h2>
 
-
+###
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ayman&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
 </div>
 
 
+###
 
 <img align="right" height="200" src="https://valorantinfo.com/images/us/perfectly-roasted-spray_valorant_gif_47963.gif"  />
 
-
+###
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo" />
@@ -26,8 +27,11 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo" />
 </div>
 
+###
 
 <br clear="both">
+
+###
 
 <div align="left">
   <a href="https://www.instagram.com/ayman_mohamed4800/" target="_blank">
@@ -47,6 +51,7 @@
   </a>
 </div>
 
+###
 
 <br clear="both">
 
@@ -62,5 +67,8 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo" title="React" />
 </div>
+
+###
+
 <br clear="both">
 <img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1651780522995/zZbL8WM2v.gif?w=1600&h=840&fit=crop&crop=entropy&auto=format,compress&gif-q=60&format=webm" alt="Snake animation" style="width: 100%; max-width: 600px;" />
